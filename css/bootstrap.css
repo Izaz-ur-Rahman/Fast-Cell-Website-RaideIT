@@ -1075,6 +1075,7 @@ th {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
+
 }
 html {
   font-size: 10px;
@@ -1084,6 +1085,7 @@ html {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
+  background-color:;
   line-height: 1.42857143;
   color: #333;
   background-color: #fff;
@@ -1777,6 +1779,7 @@ pre code {
 @media (min-width: 768px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
     float: left;
+    box-shadow: none;
   }
   .col-sm-12 {
     width: 100%;
