@@ -1,13 +1,13 @@
 /*-------------------------------------
-    
-	Author: Webstrot 
+
+	Author: Webstrot
 	Copyright © 2018
-	
+
 ---------------------------------------
-    
+
     CSS INDEX
     ===================
-	
+
     1. BODY
 	2. CUSTOM CSS / A
 	3. PRELOADER
@@ -348,7 +348,7 @@ width:100%;
 	position:absolute;
 	top:45%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:none;
 }
 .lr_thumbs_slide{
@@ -561,8 +561,8 @@ width:100%;
 	font-size:44px;
 	font-weight:300;
 	padding-bottom:10px;
-}	
-/*-- try top Slider main wrapper End --*/ 
+}
+/*-- try top Slider main wrapper End --*/
 .features-sec{
 	float:left;
 	width:100%;
@@ -594,7 +594,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-   
+
 }
 /******------try Slider banner Start------********/
 .try_banner_slider_wrapper{
@@ -657,7 +657,7 @@ width:100%;
 	position:absolute;
 	top:45%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -738,7 +738,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_cont h3{
 	font-size:20px;
 	color:#ffffff;
@@ -788,7 +788,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_cont a{
 	    color: #000000;
     width: 170px;
@@ -1395,7 +1395,7 @@ width:100%;
 	position:absolute;
 	top:50%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_erp_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -1457,7 +1457,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_erp_cont h3{
 	font-size:20px;
 	color:rgba(255, 255, 255, 0.76);
@@ -1483,7 +1483,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_erp_cont a{
 	    color: #000000;
     width: 170px;
@@ -1706,7 +1706,7 @@ width:100%;
 .main{
     background:#ffffff;
     padding: 20px;
-	padding-bottom:30px;	
+	padding-bottom:30px;
 	border-radius:10px;
 	margin-top:60px;
 }
@@ -1868,7 +1868,7 @@ width:100%;
 	margin-top:10px;
 	float:left;
 	width:100%;
-}	
+}
 .try_led_heading_wrapper a{
 	    color: #000000;
     width: 170px;
@@ -1974,7 +1974,7 @@ width:100%;
 	position:absolute;
 	top:50%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_watch_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -2036,7 +2036,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_watch_cont h3{
 	font-size:20px;
 	color:rgba(255, 255, 255, 0.76);
@@ -2062,7 +2062,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_watch_cont a{
 	    color: #000000;
     width: 170px;
@@ -2161,7 +2161,7 @@ width:100%;
 	position:absolute;
 	top:50%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_mac_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -2223,7 +2223,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_mac_cont h3{
 	font-size:20px;
 	color:rgba(255, 255, 255, 0.76);
@@ -2250,7 +2250,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_mac_cont a{
 	    color: #000000;
     width: 170px;
@@ -2417,7 +2417,7 @@ width:100%;
 	position:absolute;
 	top:50%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_bank_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -2479,7 +2479,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_bank_cont h3{
 	font-size:20px;
 	color:rgba(255, 255, 255, 0.76);
@@ -2505,7 +2505,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_bank_cont a{
 	    color: #000000;
     width: 170px;
@@ -2621,7 +2621,7 @@ width:100%;
 	position:absolute;
 	top:50%;
 	float:left;
-	width:100%;	
+	width:100%;
 	display:block !important;
 }
 .try_banner_cam_slider_inner_wrapper .carousel-nevigation > .prev{
@@ -2683,7 +2683,7 @@ width:100%;
     -ms-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
-} 
+}
 .try_slider_banner_cam_cont h3{
 	font-size:20px;
 	color:rgba(255, 255, 255, 0.76);
@@ -2709,7 +2709,7 @@ width:100%;
 	float:left;
 	width:100%;
 	animation-delay: 1.9s;
-}	
+}
 .try_slider_banner_cam_cont a{
 	    color: #000000;
     width: 170px;
